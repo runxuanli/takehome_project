@@ -1,1 +1,22 @@
-TakeHomeProject/census-bureau.data
+TakeHomeProject/*
+
+# ========================
+# OS files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# Virtual environments
+# ========================
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ========================
+# Jupyter
+# ========================
+.ipynb_checkpoints/
