@@ -3,7 +3,10 @@ TakeHomeProject/*
 # ========================
 # OS files
 # ========================
+*~
+*.tmp
 .DS_Store
+
 Thumbs.db
 
 # ========================
@@ -20,3 +23,6 @@ venv.bak/
 # Jupyter
 # ========================
 .ipynb_checkpoints/
+
+
+
