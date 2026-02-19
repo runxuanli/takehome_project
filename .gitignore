@@ -1,17 +1,14 @@
 TakeHomeProject/*
 
-# ========================
 # OS files
-# ========================
 *~
 *.tmp
 *.DS_Store
 
 Thumbs.db
 
-# ========================
+
 # Virtual environments
-# ========================
 env/
 venv/
 .venv/
@@ -19,9 +16,8 @@ ENV/
 env.bak/
 venv.bak/
 
-# ========================
+
 # Jupyter
-# ========================
 .ipynb_checkpoints/
 
 
